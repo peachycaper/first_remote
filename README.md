@@ -1,1 +1,1 @@
-This is my first remote repot
+This is my first remote repo
